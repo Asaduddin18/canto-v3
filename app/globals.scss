@@ -1,6 +1,10 @@
 :root {
   --dark-mode: 0;
   --light-mode: 1;
+
+  $mobile-breakpoint: 425px;
+  $tablet-breakpoint: 768px;
+  $desktop-breakpoint: 1024;
 }
 
 * {
